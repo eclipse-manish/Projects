@@ -1,2 +1,4 @@
 # Projects
-My All Projects &amp; Cheats
+
+Contains All of My Goofy Projects & Cheats.
+Hope you enjoy.
